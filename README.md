@@ -1,7 +1,7 @@
 # LittlePinkEditor
 A Kirby Triple Deluxe save editor. 
-
-![Kirby Triple Deluxe Image](http://url/to/img.png](https://brutalgamer.com/wp-content/uploads/2014/05/Kirby-Triple-Deluxe1-450x253.jpg)
+<img src="http://www.somepic..." alt="pic" />
+<img src="https://brutalgamer.com/wp-content/uploads/2014/05/Kirby-Triple-Deluxe1-450x253.jpg" alt="Kirby Triple Deluxe Image" />
 <i>Image Credits: brutalgamer.com</i>
 ## Author
 
