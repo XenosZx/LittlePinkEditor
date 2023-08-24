@@ -26,4 +26,4 @@ Either open an issue or contact sysoverdrive (display name Xenos) on Discord. If
 
 
 ## Name
-The name "LittlePinkEditor" was inspired by an already existing NSMB2 save editor, [BigRedEditor](https://github.com/ExplosBlue/BigRedEditor.)
+The name "LittlePinkEditor" was inspired by an already existing NSMB2 save editor, [BigRedEditor](https://github.com/ExplosBlue/BigRedEditor)
