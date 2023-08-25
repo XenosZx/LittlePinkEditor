@@ -27,3 +27,7 @@ Either open an issue or contact sysoverdrive (display name Xenos) on Discord. If
 
 ## Name
 The name "LittlePinkEditor" was inspired by an already existing NSMB2 save editor, [BigRedEditor](https://github.com/ExplosBlue/BigRedEditor)
+
+## Log
+
+8/24 - Figured out where data for sun stones and level completion were located and succesfully was able to manipulate them
