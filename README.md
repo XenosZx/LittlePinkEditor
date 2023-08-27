@@ -31,3 +31,4 @@ The name "LittlePinkEditor" was inspired by an already existing NSMB2 save edito
 ## Log
 
 8/24 - Figured out where data for sun stones and level completion were located and succesfully was able to manipulate them
+8/27 - Created main.cpp, gui.cpp, and save_editor.cpp, will start coding the application soon. (Note: I have not fully cracked the save structure for KTD, but am getting there.) 
